@@ -24,8 +24,8 @@ Spam SMS Blocker is an iOS app designed to filter out unwanted and spam messages
 
 ### 1. Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/spam-sms-blocker.git
-$ cd spam-sms-blocker
+$ git clone https://github.com/makalin/spamshield.git
+$ cd spamshield
 ```
 
 ### 2. Add the CoreML Model
